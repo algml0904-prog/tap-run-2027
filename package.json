@@ -1,0 +1,8 @@
+{
+  "name": "2027-taprun-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "실시간 19명 모바일 탭 달리기 - 방 생성, QR, 음악, 60/120초",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node":">=18"}
+}
